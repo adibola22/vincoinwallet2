@@ -1,1 +1,2 @@
-# vincoinwallet2
+# vincoin
+Vincoin — secure, private, untraceable cryptocurrency
